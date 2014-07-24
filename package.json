@@ -1,0 +1,7 @@
+{
+  "name": "iwritelists-admin",
+  "version": "0.1.0",
+  "author": "No More Sugar <http://nomoresugar.github.io/>",
+  "main": "admin.js",
+  "description": "Administrative plugin for IWriteLists"
+}
